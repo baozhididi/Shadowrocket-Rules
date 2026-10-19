@@ -2,3 +2,5 @@
 # WorkBuddy International Rules
 DOMAIN-SUFFIX,workbuddy.ai
 DOMAIN-SUFFIX,download.codebuddy.ai
+# WorkBuddy 网页版加载的反欺诈检测域名
+DOMAIN-SUFFIX,turingfraud.net
